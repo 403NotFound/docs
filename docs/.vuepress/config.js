@@ -1,7 +1,6 @@
 module.exports = {
   title: "杂乱有序",
   description: "Just playing around",
-  base: "/docs",
   themeConfig: {
     sidebar: "auto",
     nav: [
