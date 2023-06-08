@@ -1,5 +1,5 @@
 module.exports = {
-  title: "杂乱有序",
+  title: "纳尼(ÒωÓױ)！",
   description: "Just playing around",
   themeConfig: {
     sidebar: "auto",
