@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://vuepress.vuejs.org/hero.png
-heroText: 随便记点
+heroImage: https://picx.zhimg.com/v2-a45497d6a099533a834376fec0760dbb_xl.jpg?source=32738c0c
+heroText: 随便写点吧
 tagline: 开始学习了吗？那可真的泰酷拉！
 actionText: 开始学习 →
 actionLink: /FE/html
